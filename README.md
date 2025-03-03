@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m currently working on **LMS (Learning Management System)**
+- 🔭 I’m currently working on **LMS (Learning Management System) MERN Stack Project**
 
 - 📝 I am highly active on LinkedIn [https://www.linkedin.com/in/rishikesh-yadav-a059482b0/](https://www.linkedin.com/in/rishikesh-yadav-a059482b0/)
 
