@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<h4 align="center">I’m a second-year Computer Science Engineering student who loves building web applications and solving coding challenges. I have a strong grasp of DSA and full-stack development, working with Java, JavaScript, React, Node.js, and MongoDB. I enjoy taking part in hackathons, coding communities, and open-source projects, always looking for ways to learn and improve. Passionate about problem-solving and collaboration, I’m eager to apply my skills to real-world projects and internships in product-based companies</h4>
+<h4 align="center">I’m a third-year Computer Science Engineering student who loves building web applications and solving coding challenges. I have a strong grasp of DSA and full-stack development, working with Java, JavaScript, React, Node.js, and MongoDB. I enjoy taking part in hackathons, coding communities, and open-source projects, always looking for ways to learn and improve. Passionate about problem-solving and collaboration, I’m eager to apply my skills to real-world projects and internships in product-based companies</h4>
 
 
 - 🔭 I’m currently working on **LMS (Learning Management System) MERN Stack Project**
