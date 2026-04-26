@@ -33,41 +33,6 @@ Hey! I'm Rishikesh, a B.Tech CSE student passionate about building scalable web 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 FlashChat – Real-Time Chat App
-- 💬 Real-time messaging using Socket.io  
-- 🔐 JWT Authentication  
-- 🌐 Built with MERN stack  
-- 🎨 Responsive UI using Tailwind CSS  
-
----
-
-### 🔹 Smart Resume Analyzer & ATS Optimizer
-- 🤖 AI-powered resume analysis  
-- 📄 Supports PDF, DOCX, TXT parsing  
-- 🧠 Uses Llama 3.3 (via Groq API)  
-- 📊 ATS scoring + job matching  
-
----
-
-### 🔹 AI Code Reviewer
-- ⚡ Automated code review using Gemini API  
-- 🐞 Detects bugs, logic issues, optimizations  
-- 📈 Improves code quality with structured feedback  
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place – CodeFront Hackathon (2025)**  
-- 📈 1680+ LeetCode Rating  
-- 🧩 450+ Problems Solved  
-- 🤝 Project Admin @ GirlScript Summer of Code  
-- 🎤 Tech Lead @ GDG on Campus (500+ community)
-
----
-
 ## 📊 GitHub Stats
 
 ![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-rishikesh&show_icons=true&theme=radical)
