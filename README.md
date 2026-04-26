@@ -9,11 +9,10 @@
 
 Hey! I'm Rishikesh, a B.Tech CSE student passionate about building scalable web apps and integrating AI into real-world solutions.  
 
-- 🔭 Currently working as a **Full Stack Developer Intern @ FactoryJet**
-- 🧠 Exploring **Generative AI + MERN stack**
-- 💬 Love solving DSA problems (250+ on LeetCode)
+- 🔭 Currently working as a **Full Stack Developer Intern **
+- 🧠 Exploring **Generative AI + NEXT JS**
+- 💬 Love solving DSA problems (500+ on LeetCode)
 - 🚀 Building impactful projects in AI & Web Development  
-- 🎯 Goal: Land a **remote SDE internship in a product-based company**
 
 ---
 
