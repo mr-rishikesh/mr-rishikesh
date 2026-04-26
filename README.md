@@ -1,28 +1,97 @@
-<h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-<h4 align="center">I’m a third-year Computer Science Engineering student who loves building web applications and solving coding challenges. I have a strong grasp of DSA and full-stack development, working with Java, JavaScript, React, Node.js, and MongoDB. I enjoy taking part in hackathons, coding communities, and open-source projects, always looking for ways to learn and improve. Passionate about problem-solving and collaboration, I’m eager to apply my skills to real-world projects and internships in product-based companies</h4>
+# 🚀 Rishikesh Kumar Yadav
 
+💻 Full Stack Developer | AI Enthusiast | Open Source Contributor  
+📍 Prayagraj, India  
 
-- 🔭 I’m currently working on **LMS (Learning Management System) MERN Stack Project**
+---
 
-- 📝 I am highly active on LinkedIn [https://www.linkedin.com/in/rishikesh-yadav-a059482b0/](https://www.linkedin.com/in/rishikesh-yadav-a059482b0/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **mr.rishikesh2@gmail.com**
+Hey! I'm Rishikesh, a B.Tech CSE student passionate about building scalable web apps and integrating AI into real-world solutions.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LHxlobzWvc8-pgXvXC34QKBx69fN0Ac9/view?usp=sharing](https://drive.google.com/file/d/1LHxlobzWvc8-pgXvXC34QKBx69fN0Ac9/view?usp=sharing)
+- 🔭 Currently working as a **Full Stack Developer Intern @ FactoryJet**
+- 🧠 Exploring **Generative AI + MERN stack**
+- 💬 Love solving DSA problems (250+ on LeetCode)
+- 🚀 Building impactful projects in AI & Web Development  
+- 🎯 Goal: Land a **remote SDE internship in a product-based company**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mr_k75580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_k75580" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishikesh-yadav-a059482b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh-yadav-a059482b0" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_rishikesh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rishikesh2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr-rishikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr-rishikesh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishikesh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishikesh_yadav" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-rishikesh&show_icons=true&locale=en&layout=compact" alt="mr-rishikesh" /></p>
+### 💡 Languages
+`Java` `JavaScript` `TypeScript` `Python` `C` `C++`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-rishikesh&show_icons=true&locale=en" alt="mr-rishikesh" /></p>
+### 🌐 Web & Frameworks
+`React` `Next.js` `Node.js` `Express`
+
+### 🗄️ Databases
+`MongoDB` `MySQL` `Prisma`
+
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Cloudflare` `Linux` `VS Code` `Render`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 FlashChat – Real-Time Chat App
+- 💬 Real-time messaging using Socket.io  
+- 🔐 JWT Authentication  
+- 🌐 Built with MERN stack  
+- 🎨 Responsive UI using Tailwind CSS  
+
+---
+
+### 🔹 Smart Resume Analyzer & ATS Optimizer
+- 🤖 AI-powered resume analysis  
+- 📄 Supports PDF, DOCX, TXT parsing  
+- 🧠 Uses Llama 3.3 (via Groq API)  
+- 📊 ATS scoring + job matching  
+
+---
+
+### 🔹 AI Code Reviewer
+- ⚡ Automated code review using Gemini API  
+- 🐞 Detects bugs, logic issues, optimizations  
+- 📈 Improves code quality with structured feedback  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place – CodeFront Hackathon (2025)**  
+- 📈 1680+ LeetCode Rating  
+- 🧩 450+ Problems Solved  
+- 🤝 Project Admin @ GirlScript Summer of Code  
+- 🎤 Tech Lead @ GDG on Campus (500+ community)
+
+---
+
+## 📊 GitHub Stats
+
+![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-rishikesh&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mr-rishikesh&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: mr.rishikesh2@gmail.com  
+- 📱 Phone: +91 9801690166  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rishikesh-yadav-a059482b0/  
+- 🧑‍💻 GitHub: https://github.com/mr-rishikesh  
+- 🐦 X (Twitter): https://x.com/mrk75580  
+
+---
+
+## ⚡ Fun Fact
+
+I’ve been consistent on LeetCode for 100+ days straight and love pushing my limits daily 🚀  
+
+---
+
+## 🧠 Quote I Follow
+
+> “Consistency beats talent when talent doesn’t work hard.”
