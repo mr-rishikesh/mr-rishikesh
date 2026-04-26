@@ -44,9 +44,7 @@ Hey! I'm Rishikesh, a B.Tech CSE student passionate about building scalable web 
 ## 📫 Connect With Me
 
 - 📧 Email: mr.rishikesh2@gmail.com  
-- 📱 Phone: +91 9801690166  
 - 🔗 LinkedIn: https://www.linkedin.com/in/rishikesh-yadav-a059482b0/  
-- 🧑‍💻 GitHub: https://github.com/mr-rishikesh  
 - 🐦 X (Twitter): https://x.com/mrk75580  
 
 ---
