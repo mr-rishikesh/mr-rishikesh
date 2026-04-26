@@ -1,11 +1,11 @@
-# 🚀 Rishikesh Kumar Yadav
+#  Rishikesh Kumar Yadav
 
 💻 Full Stack Developer | AI Enthusiast | Open Source Contributor  
 📍 Prayagraj, India  
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hey! I'm Rishikesh, a B.Tech CSE student passionate about building scalable web apps and integrating AI into real-world solutions.  
 
